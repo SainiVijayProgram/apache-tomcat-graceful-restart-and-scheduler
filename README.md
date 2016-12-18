@@ -13,3 +13,7 @@ Every run of the powershell script will be logged in the SERVERNAME_apache_Resta
 
 
 Feel free to use it as per you requirement. Please contact me at VijaySainiProfessional@gmail.com to understand it in more details
+
+
+
+For advanced version of this script, please visit https://github.com/SainiVijayProgram/advanced-services-restart-scheduler--notification-emails-included-
